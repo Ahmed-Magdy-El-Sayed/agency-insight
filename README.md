@@ -1,2 +1,2 @@
-# website-1
-## Website1 with HTML CSS only
+# Website-1
+## With HTML CSS only
